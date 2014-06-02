@@ -18,7 +18,7 @@ $(document).ready(function() {
     
     //googleMapsEngineを使用した表示
     var mapOptions = {
-      center: new google.maps.LatLng(43.064504999999997, 141.34255999999999),
+      center: new google.maps.LatLng(43.063944, 141.347979),
       zoom : 16,
       mapTypeId : google.maps.MapTypeId.ROADMAP
     };
